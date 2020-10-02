@@ -2,7 +2,7 @@ Looking for the original template? Here you go: https://github.com/sveltejs/temp
 ---
 
 ```bash
-npx degit pckkkkkk/my-svelte-tailwind myapp
+npx degit pckkkkkk/my-routify-tailwind myapp
 cd myapp
 npm i
 ```
